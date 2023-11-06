@@ -1,14 +1,17 @@
 # AsqArs’ GitHub
 
-The full name is **Asqar Arslanov** /əˈskɑːr ˌɑːr.slən.əv/ (uh-SCAR
-ARE-slan-of).
+### About me
 
-I’m a 1<sup>st</sup> year BCS student at
+The full name is **Asqar Arslanov**.
+
+> /əˈskɑːr ˌɑːr.slən.əv/ (uh-SCAR ARE-slan-of)
+
+I’m a 1<sup>st</sup> year BCompSc student at
 [Innopolis University](https://innopolis.university/en/).
 
 Am I any good? [Yes](https://news.ycombinator.com/item?id=3067434).
 
-### Tech Stack
+### Tech stack
 
 I’m most interested in **Rust**, **Svelte**, **Deno**, **TypeScript**, and
 **Tauri**.
