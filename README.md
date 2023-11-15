@@ -21,7 +21,7 @@ I also have experience with **shell scripting**, **C/C++**, **Java**,
 **Python**, **Lua**, **HTML/CSS/JS**, and **Node.js/Bun**.
 
 And BTW, I use **Arch Linux** 😎
-([my setup](https://github.com/asqarslanov/dotfiles)).
+([check out my setup](https://github.com/asqarslanov/dotfiles)).
 
 ## Contact me
 
