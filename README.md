@@ -20,7 +20,7 @@ I’m most interested in **Rust**, **Svelte**, **Deno**, **TypeScript**, and
 I also have experience with **shell scripting**, **C/C++**, **Java**,
 **Python**, **Lua**, **HTML/CSS/JS**, and **Node.js/Bun**.
 
-And BTW, I use **Arch Linux** 😎
+And BTW, I use **Arch Linux** 😎\
 ([check out my setup](https://github.com/asqarslanov/dotfiles)).
 
 ## Contact me
