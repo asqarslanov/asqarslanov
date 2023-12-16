@@ -31,4 +31,4 @@ And BTW, I use **Arch Linux** 😎\
 
 **Discord**: [asqarslanov](https://discord.com/users/397334384463577088)
 
-_**Anything else**_: _you could see the pattern_
+_**Anything else**_: _you could notice the pattern_
