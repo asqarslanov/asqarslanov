@@ -7,3 +7,8 @@ edition = "2021"
 
 [dependencies]
 leptos = { version = "0.5.4", features = ["csr", "nightly"] }
+leptos_i18n = { version = "0.2.3", features = ["csr", "nightly"] }
+
+[package.metadata.leptos-i18n]
+default = "en"
+locales = ["en"]
