@@ -7,7 +7,7 @@ The full name is **Asqar Arslanov**.
 > /ə&#712;sk&#593;&#720;r &#716;&#593;&#720;r.slən.əv/\
 > (uh-SCAR ARE-slan-of)
 
-I’m a first-year undergrad in computer science
+I’m a second-year computer science major
 at [Innopolis University](https://innopolis.university/en/).
 
 Am I any good? [Yes](https://news.ycombinator.com/item?id=3067434).
