@@ -2,24 +2,27 @@
 
 ## About me
 
-The full name is **Asqar Arslanov**.
+<details>
+<summary>The full name is Asqar Arslanov.</summary>
 
-> /ə&#712;sk&#593;&#720;r &#716;&#593;&#720;r.slən.əv/\
-> (uh-SCAR ARE-slan-of)
+> ə&middot;**skaar** **aar**&middot;slən&middot;əv
 
-I’m a second-year computer science major
-at [Innopolis University](https://innopolis.university/en/).
+</details>
+
+I&CloseCurlyQuote;m a second-year computer science major at
+[Innopolis University](https://innopolis.university/en/).
 
 Am I any good? [Yes](https://news.ycombinator.com/item?id=3067434).
 
 ## Tech stack
 
-I’m most interested in **Rust**, **TypeScript**, **Solid/SolidStart**, **Motion One**,
-**Tailwind CSS**, and **Tauri**.
+I&CloseCurlyQuote;m most interested in **Rust**, **Axum**, **TypeScript**,
+**Solid/SolidStart**, **Tailwind CSS**, and **Tauri**.
 
-I also have experience with **shell scripting**, **C/C++**, **Java**, **Python**, **Lua**.
+I also have experience with **shell scripting**, **Vue/Nuxt**,
+**Svelte/SvelteKit**, **C/C++**, **Java**, **Python**, **Lua**.
 
-And BTW, I use **Arch Linux** 😎
+And BTW, I use **Arch Linux** 😎 <wbr>
 ([check&nbsp;out&nbsp;my&nbsp;setup](https://github.com/asqarslanov/dotfiles)).
 
 ## Contact me
@@ -30,4 +33,4 @@ And BTW, I use **Arch Linux** 😎
 
 **Discord**: [asqarslanov](https://discord.com/users/397334384463577088)
 
-_**Anything else**_: _you probably noticed the pattern_
+**Other medias**: you&CloseCurlyQuote;ve probably noticed the pattern :)
