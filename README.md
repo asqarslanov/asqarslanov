@@ -36,7 +36,7 @@ building:
 - Databases: **SQL** (**PostgreSQL**), **NoSQL**.
 - DevOps: **Unix/Linux**, **Docker&nbsp;(Compose)**, **Bash&nbsp;scripting**.
 - Web: **TypeScript**, **Svelte/SvelteKit**, **Tailwind&nbsp;CSS**.
-- Other languages: Python, C/C++.
+- Other languages: Go, Python, C/C++.
 
 😎 And BTW, I use **Arch Linux** <wbr />
 ([check&nbsp;out&nbsp;my&nbsp;setup](https://github.com/asqarslanov/dotfiles)).
