@@ -23,9 +23,11 @@ Am I any good? [Yes](https://news.ycombinator.com/item?id=3067434).
 
 ## 🧰 Tech stack
 
-🦀 My primary expertise is **Rust** development. My areas of interest include building:
+🦀 My primary expertise is **Rust** development. My areas of interest include
+building:
 
-- Web servers (REST APIs via [Axum](https://github.com/tokio-rs/axum), gRPC with [Tonic](https://github.com/hyperium/tonic)).
+- Web servers (REST APIs via [Axum](https://github.com/tokio-rs/axum), gRPC with
+  [Tonic](https://github.com/hyperium/tonic)).
 - CLI utilities & systems programming.
 
 💻 My other skills include:
