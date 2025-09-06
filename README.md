@@ -17,7 +17,7 @@
 
 </details>
 
-I&CloseCurlyQuote;m a second-year computer science major at
+I&CloseCurlyQuote;m a third-year computer science major at
 [Innopolis University](https://innopolis.university/en/).
 
 Am I any good? [Yes](https://news.ycombinator.com/item?id=3067434).
