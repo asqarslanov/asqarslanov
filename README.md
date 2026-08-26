@@ -1,4 +1,4 @@
-# AsqArs&rsquo;Quote; GitHub
+# AsqArs&rsquo; GitHub
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -6,9 +6,10 @@
 
 ## 👨‍💻 About me
 
-- Junior Rust Backend Engineer at [F6](https://www.f6.ru)
-- Senior undergraduate student at
-  [Innopolis University](https://innopolis.university/en/).
+Junior Rust Backend Engineer at [F6](https://www.f6.ru).
+
+Senior undergraduate student at
+[Innopolis University](https://innopolis.university/en/).
 
 Am I any good? [Yes](https://news.ycombinator.com/item?id=3067434).
 
@@ -18,9 +19,10 @@ Am I any good? [Yes](https://news.ycombinator.com/item?id=3067434).
 **web**, **CLI**, and **desktop** development.
 
 💻 I also have experience working with other programming languages _(e.g.,
-Python, C++, JavaScript, Go, Kotlin, Bash)_. TypeScript ♥️
+Python, C++, JavaScript, Go, Kotlin, Bash)_.\
+♥️ TypeScript
 
-😎 And BTW, I use **Arch Linux** <wbr />
+😎 And BTW, I use Arch Linux <wbr />
 ([check&nbsp;out&nbsp;my&nbsp;setup](https://github.com/asqarslanov/dotfiles)).
 
 ## 🤙 Contact me
